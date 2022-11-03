@@ -26,3 +26,6 @@ if username == "Soulnim" and password == "Luqm@n2004":
         print(expensesLists)
     else:
         print("Invalid input")
+        
+        
+ print("Hello world!)
